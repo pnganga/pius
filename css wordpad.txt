@@ -1,0 +1,2 @@
+<span class="name of class"> tag is used to set up classes for words in a sentence.
+<div id="name of id"> id is used to style the layout elements
